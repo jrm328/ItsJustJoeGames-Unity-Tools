@@ -4,3 +4,6 @@
 
 </p>
 
+[![Its Just Joe Games github stats](https://github-readme-stats.vercel.app/api?username=jrm328)](https://github.com/jrm328)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrm328&layout=compact)](https://github.com/jrm328)
